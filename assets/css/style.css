@@ -33,9 +33,9 @@ h2 #h2link{
 }
 
 a {
-  color: #2222ff;
-  background-image: -webkit-linear-gradient(top, #2222ff 0, #2222ff 100%);
-  background-image: linear-gradient(to bottom, #2222ff 0, #2222ff 100%);
+  color: #008080;
+  background-image: -webkit-linear-gradient(top, #008080 0, #008080 100%);
+  background-image: linear-gradient(to bottom, #008080 0, #008080 100%);
   background-repeat: repeat-x;
   background-size: 0.12rem 0.12rem;
   text-decoration: none;
@@ -49,9 +49,9 @@ b {
 
 
 a:focus, a:hover {
-  color: #E07900;
-  background-image: -webkit-linear-gradient(top, #E07900 0, #E07900 100%);
-  background-image: linear-gradient(to bottom, #E07900 0, #E07900 100%);
+  color: #BA55D3; 
+  background-image: -webkit-linear-gradient(top, #BA55D3 0, #BA55D3 100%);
+  background-image: linear-gradient(to bottom, #BA55D3 0, #BA55D3 100%);
 
 }
 
@@ -62,7 +62,7 @@ a#name{
 }
 
 a#name:hover{
-  color: #E07900;
+  color: #BA55D3;
 
 }
 #logos {
@@ -72,7 +72,7 @@ margin-top: 0px;
 }
 
 #logos img{
-  height: 50px;
+  height: 100px;
 }
 
 .nav li a {
