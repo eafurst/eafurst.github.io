@@ -10,6 +10,10 @@ imad:
         display_name: "Imad Rahal"
         webpage: "http://www.users.csbsju.edu/~irahal/"
 
-ramzy:
+ramzi:
         display_name: "Ramzi Haraty"
         webpage: "http://sas.lau.edu.lb/csm/people/rharaty.php"
+
+emily:
+    display_name: Emily Furst
+    webpage: "https://homes.cs.washington.edu/~eafurst"
