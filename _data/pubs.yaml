@@ -1,0 +1,24 @@
+-
+    title: "Profiling A GPU Database Implementation"
+    authors: "Emily Furst, Mark Oskin, Bill Howe"
+    year: 2017
+    venue: "DaMoN"
+    url: "http://daslab.seas.harvard.edu/damon2017/" 
+    pdf: papers/damon17.pdf
+    bibtex: bib/eafurst_damon17.bibtex
+    type: workshop
+    people:
+        - emily
+        - oskin
+        - howe
+-
+   title: "Parallelizing Instance-Based Data Classifiers"
+   authors: "Imad Rahal, Emily Furst, Ramzi Haraty"
+   year: 2016
+   venue: "Intl. Florida Artificial Intelligence Research Society Conference (FLAIRS)"
+   url: "http://www.flairs.com/"
+   type: conference
+   people: 
+        - imad
+        - emily
+        - ramzi

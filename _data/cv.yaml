@@ -1,0 +1,76 @@
+name: Emily Furst
+email: eafurst@cs.washington.edu
+dept: University of Washington, Paul G. Allen School of Computer Science and Engineering
+dept_url: https://www.cs.washington.edu
+
+education:
+    -
+        school: University of Washington
+        degree: Ph.D., Computer Science and Engineering
+        dates: In progress
+        note: |
+            Advisor: <a href="http://homes.cs.washington.edu/~oskin/">Mark Oskin</a><br>
+    -
+        school: University of Washington
+        degree: Masters of Science, Computer Science and Engineering
+        dates: 2017
+    -
+        school: College of Saint Benedict
+        degree: Bachelor of Arts, Computer Science and Mathematics
+        dates: 2011&ndash;2015
+
+jobs:
+    -
+        title: Research Intern
+        where: Adobe Research Creative Intelligence Lab
+        dates: 2018
+
+    -
+        title: Research Intern
+        where: Oracle Labs
+        dates: 2017
+
+    -
+        title: Technical Summer Intern 
+        where: Sandia National Laboratories
+        dates: 2015
+ 
+    -
+        title: Student Intern
+        where: Adventium Laboratories
+        dates: 2012
+
+honors:
+    -
+        title: Marilyn Fries Endowed Regential Fellowship 
+        date: 2015
+    -
+        title: Phi Beta Kappa 
+        date: 2015
+    -
+        title: MapCores - Mathematics, Physics, Computer Science Scholar 
+        date: 2011
+
+teaching:
+    - |
+        **Teaching Assistant**, University of Washington
+        * <a href="http://www.cs.washington.edu/education/courses/cse351/18wi/">CSE 351</a>, Winter 2018 (Hardware-Software Interface)
+        * <a href="http://www.cs.washington.edu/education/courses/cse160/17wi/">CSE 160</a>, Winter 2017 (Data Programming)
+        * <a href="http://www.cs.washington.edu/education/courses/csep524/16au/">CSEP 524</a>, Winter 2017 (Professional Masters Parallel Programming)
+
+    - |
+        **Teaching Assistant**, College of Saint Benedict
+        + <a href="">CS 150</a>, Fall 2012 (Intro to Computer Science)
+
+service:
+    - |
+        University of Washington, Computer Science and Engineering
+        * Prospective Student Committee Member, 2016--2019
+        * TGIF Committee Co-Chair, 2016--2017
+        * New Graduate Student Mentor, 2018--2019
+
+outreach:
+    - |
+        Chair, UW CSE Women’s Research Day (2019--2020)
+    - |
+        Committee, UW CSE Women’s Research Day (2016, 2017, 2018, 2019)

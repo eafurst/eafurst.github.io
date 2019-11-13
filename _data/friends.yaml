@@ -1,0 +1,15 @@
+oskin:
+        display_name: "Mark Oskin"
+        webpage: "https://homes.cs.washington.edu/~oskin/"
+
+howe: 
+        display_name: "Bill Howe"
+        webpage: "https://faculty.washington.edu/billhowe/"
+
+imad: 
+        display_name: "Imad Rahal"
+        webpage: "http://www.users.csbsju.edu/~irahal/"
+
+ramzy:
+        display_name: "Ramzi Haraty"
+        webpage: "http://sas.lau.edu.lb/csm/people/rharaty.php"

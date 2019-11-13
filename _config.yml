@@ -1,0 +1,35 @@
+name: Emily Furst 
+author: Emily Furst
+url: https://homes.cs.washington.edu/~eafurst/
+baseurl: /~eafurst
+email: 'eafurst@cs.washington.edu'
+ghrepo: https://github.com/eafurst/academic-homepage
+
+
+markdown: kramdown
+highlighter: pygments
+# permalink: /:title.html
+timezone: America/Seattle
+exclude: [README.md, Makefile]
+
+
+defaults:
+    -
+        scope:
+            path: ""
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
+
+navigation:
+  - title: home
+    link: /
+  - title: cv
+    link: /web-cv.html
+
