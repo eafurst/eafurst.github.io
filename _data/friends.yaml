@@ -2,6 +2,50 @@ oskin:
         display_name: "Mark Oskin"
         webpage: "https://homes.cs.washington.edu/~oskin/"
 
+ajay:
+        display_name: "Ajay Brahmakshatriya"
+        webpage: "https://intimeand.space/"
+
+victor:
+        display_name: "Victor Ying"
+        webpage: "https://www.victorying.com/"
+
+dustin:
+        display_name: "Dustin Richmond"
+        webpage: "http://www.dustinrichmond.com/"
+
+yunming:
+        display_name: "Yunming Zhang"
+        webpage: "https://yunmingzhang17.github.io/"
+
+mbt:
+        display_name: "Michael Taylor"
+        webpage: "http://cseweb.ucsd.edu/~mbtaylor/"
+
+julian:
+        display_name: "Julian Shun"
+        webpage: "https://people.csail.mit.edu/jshun/"
+
+saman:
+        display_name: "Saman Amarasinghe"
+        webpage: "https://people.csail.mit.edu/saman/"
+
+sanchez:
+        display_name: "Daniel Sanchez"
+        webpage: "https://people.csail.mit.edu/sanchez/"
+
+max:
+        display_name: "Max Ruttenberg"
+
+tommy:
+        display_name: "Tommy Jung"
+
+claire:
+        display_name: "Claire Hsu"
+
+changwan:
+        display_name: "Changwan Hong"
+
 howe: 
         display_name: "Bill Howe"
         webpage: "https://faculty.washington.edu/billhowe/"

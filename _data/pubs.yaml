@@ -1,4 +1,26 @@
 -
+    title: "Taming the Zoo: A Unified Graph Compiler Framework for Novel Architectures"
+    authors: "Ajay Bramakshatriya, Emily Furst, Victor Ying, Claire Hsu, Changwan Hong, Max Ruttenberg, Yunming Zhang, Tommy Jung, Dustin Richmond, Michael Taylor, Julian Shun, Mark Oskin, Daniel Sanchez, Saman Amarasinghe"
+    year: 2021
+    venue: "Intl. Symposium on Computer Architecture (ISCA)"
+    url: "https://iscaconf.org/isca2021/"
+    type: conference 
+    people:
+        - ajay
+        - emily
+        - victor 
+        - claire 
+        - changwan 
+        - max 
+        - yunming 
+        - tommy 
+        - dustin 
+        - mbt 
+        - julian 
+        - oskin
+        - sanchez 
+        - saman 
+-
     title: "Profiling A GPU Database Implementation"
     authors: "Emily Furst, Mark Oskin, Bill Howe"
     year: 2017
