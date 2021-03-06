@@ -1,9 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Kreon:300&display=swap');
-@import url(https://fonts.googleapis.com/css?family=Muli:400,400i,700,700i);
-@import url('https://fonts.googleapis.com/css?family=Quicksand:300,400&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Ramaraja&display=swap');
+
 
 body {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Raleway';
   font-size: 14px;
 }
 
@@ -19,12 +21,15 @@ margin-top: 30px;
 
 #name {
   text-align: left;
+  vertical-align:bottom;
   float: left;
 }
 
 
 .h2, h2{
+  font-family: 'Ramaraja';
   font-size: 24px;
+	font-weight: bold;
 }
 
 h2 #h2link{
@@ -33,9 +38,9 @@ h2 #h2link{
 }
 
 a {
-  color: #008080;
-  background-image: -webkit-linear-gradient(top, #008080 0, #008080 100%);
-  background-image: linear-gradient(to bottom, #008080 0, #008080 100%);
+  color: #3B683A;
+  background-image: -webkit-linear-gradient(top, #3B683A 0, #3B683A 100%);
+  background-image: linear-gradient(to bottom, #3B683A 0, #3B683A 100%);
   background-repeat: repeat-x;
   background-size: 0.12rem 0.12rem;
   text-decoration: none;
@@ -44,27 +49,28 @@ a {
 }
 
 b {
-  font-weight: 700;
+  font-weight: 900;
 }
 
 
 a:focus, a:hover {
-  color: #BA55D3; 
-  background-image: -webkit-linear-gradient(top, #BA55D3 0, #BA55D3 100%);
-  background-image: linear-gradient(to bottom, #BA55D3 0, #BA55D3 100%);
+  color: #223D79; 
+  background-image: -webkit-linear-gradient(top, #223D79 0, #223D79 100%);
+  background-image: linear-gradient(to bottom, #223D79 0, #223D79 100%);
 
 }
 
 a#name{
-  color: #000;
+  color: #000000;
   background-image: none;
   text-shadow: none;
 }
 
 a#name:hover{
-  color: #BA55D3;
-
+  color: #195B17;
+	text-decoration: none;
 }
+
 #logos {
 float: right;
 padding-bottom: 10px;
@@ -91,10 +97,14 @@ margin-top: 0px;
 }
 
 #name h1{
+  font-family: 'Ramaraja';
   line-height: normal;
+  letter-spacing: 1px;
+  vertical-align:bottom;
   margin: 0;
+  font-size: 72px;
   font-weight: 600;
-  color: #33a5c8;
+  color: #195B17;
 }
 
 #name h2{
@@ -103,12 +113,14 @@ margin-top: 0px;
   font-size: 12px;
   text-transform: uppercase;
   letter-spacing: 2px;
+
   font-weight: 300;
   color: #999;
 }
 
 #post h1{
-  font-size: 28px;
+  font-family: 'Ramaraja';
+  font-size: 72px;
 }
 
 #post h2{
