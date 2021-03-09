@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: default 
 title: CV
 permalink: /web-cv
 ---
+View CV in [pdf][cv-pdf].
+
+[cv-pdf]: {{site.baseurl}}/docs/EmilyFurst-CV.pdf
 {% assign cv = site.data.cv %}
 <div id="cv">
 <section>
