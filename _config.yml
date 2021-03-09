@@ -6,7 +6,7 @@ ghrepo: https://github.com/eafurst/academic-homepage
 
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge 
 # permalink: /:title.html
 timezone: America/Seattle
 exclude: [README.md, Makefile]
