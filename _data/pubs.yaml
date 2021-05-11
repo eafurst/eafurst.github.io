@@ -4,6 +4,8 @@
     year: 2021
     venue: "Intl. Symposium on Computer Architecture (ISCA)"
     url: "https://iscaconf.org/isca2021/"
+    pdf: papers/isca21.pdf
+    bibtex: bib/isca21_ugc.bib
     type: conference 
     people:
         - ajay
