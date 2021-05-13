@@ -3,7 +3,7 @@ layout: default
 title: home
 ---
 
-**I am looking for industry positions starting in Summer/Fall 2021! Feel free to contact me at [eafurst@cs.washington.edu] [email]**
+**I am looking for industry positions starting in Fall 2021! Feel free to contact me at [eafurst@cs.washington.edu] [email]**
 
 I am a [computer science] [cse] PhD candidate at the [University of Washington] [uw].
 I am part of the [sampa group] [sampa] and am advised by [Mark Oskin] [oskin].
