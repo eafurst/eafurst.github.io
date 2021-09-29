@@ -3,7 +3,7 @@ layout: default
 title: home
 ---
 
-I am a Member of Technical Staff at AMD Research.
+I am a Member of Technical Staff at [AMD Research][amd].
 I received my PhD in [computer science] [cse] at the [University of Washington] [uw].
 At UW, I was part of the [architecture group] [sampa] and was advised by [Mark Oskin] [oskin].
 
@@ -19,6 +19,7 @@ My thesis work focused on generating code for graph applications on a manycore a
 [math@csb]: http://csbsju.edu/mathematics
 [csb]: http://www.csbsju.edu
 [sampa]: http://sampa.cs.washington.edu
+[amd]: https://www.amd.com/en/corporate/research
 
 More information: [curriculum vitae] [cv], [email] [email]
 
