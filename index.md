@@ -3,13 +3,14 @@ layout: default
 title: home
 ---
 
-I am a [computer science] [cse] PhD candidate at the [University of Washington] [uw].
-I am part of the [sampa group] [sampa] and am advised by [Mark Oskin] [oskin].
+I am a Member of Technical Staff at AMD Research.
+I received my PhD in [computer science] [cse] at the [University of Washington] [uw].
+At UW, I was part of the [architecture group] [sampa] and was advised by [Mark Oskin] [oskin].
 
 I am interested in understanding and improving the performance of complex architectures.
-My current research focuses on making complex architectures easier to program while maintaining high performance.
+During graduate school, I focused on making complex architectures easier to program while maintaining high performance.
 I have worked on code generation targetting various parallel architectures and have created methodologies and built tools to better understand the behavior and performance of GPUs. 
-I am currently working on generating code for graph applications on a manycore architecture that utilizes high bandwidth memory.
+My thesis work focused on generating code for graph applications on a manycore architecture that utilizes high bandwidth memory.
 
 [cse]: http://cs.washington.edu/
 [uw]: http://washington.edu
@@ -22,6 +23,6 @@ I am currently working on generating code for graph applications on a manycore a
 More information: [curriculum vitae] [cv], [email] [email]
 
 [cv]: {{site.baseurl}}/web-cv.html
-[email]: mailto:eafurst@cs.washington.edu
+[email]: mailto:emily.furst@amd.com
 
 {% include pubs.html %}
