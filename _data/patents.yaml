@@ -1,0 +1,25 @@
+- 
+  title: "Selecting Intermediate Representation Transformations for Compilations"
+  number: "US 20250004730 A1"
+  url: "https://patents.google.com/patent/US20250004730A1/"
+  people:
+    - emily
+    - robin
+    - sangeeta
+    - mike
+  assignee: "AMD"
+  filed: 2023
+  pending: true
+
+-
+  title: "Automatic Data Layout for Operation Chains"
+  number: "	US-20240272791-A1"
+  url: "https://patents.google.com/patent/US20240272791A1"
+  people:
+    - benjamin
+    - armand
+    - mike
+    - emily
+  assignee: "AMD"
+  filed: 2023
+  pending: true

@@ -21,6 +21,14 @@ education:
 
 jobs:
     -
+        title: Senior Member of Technical Staff
+        where: AMD Research and Advanced Development
+        dates: 2025-Present
+    -
+        title: Member of Technical Staff
+        where: AMD Research and Advanced Development
+        dates: 2021-2025
+    -
         title: Research Intern
         where: Adobe Research Creative Intelligence Lab
         dates: 2018

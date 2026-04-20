@@ -29,3 +29,5 @@ More information: [curriculum vitae] [cv], [email] [email]
 [email]: mailto:emily.furst@amd.com
 
 {% include pubs.html %}
+
+{% include patents.html %}

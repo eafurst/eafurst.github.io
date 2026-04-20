@@ -22,6 +22,8 @@ View CV in [pdf][cv-pdf].
 
 {% include pubs.html %}
 
+{% include patents.html %}
+
 <section>
     <h2>Work Experience</h2>
     {% for job in cv.jobs %}

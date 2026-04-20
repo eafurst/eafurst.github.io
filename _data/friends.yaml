@@ -59,5 +59,20 @@ ramzi:
         webpage: "http://sas.lau.edu.lb/csm/people/rharaty.php"
 
 emily:
-    display_name: Emily Furst
-    webpage: "https://homes.cs.washington.edu/~eafurst"
+        display_name: "Emily Furst"
+        webpage: "https://homes.cs.washington.edu/~eafurst"
+
+robin:
+        display_name: "Robin Conradine Knauerhase"
+
+mike:
+        display_name: "Michael L. Chu"
+
+sangeeta:
+        display_name: "Sangeeta Chowdhary"
+
+benjamin:
+        display_name: "Benjamin Youngjae Cho"
+
+armand:
+        display_name: "Armand Bahram Behroozi"
