@@ -1,4 +1,21 @@
 -
+    title: "From Triton to AMD NPU: Compiler-Driven Kernel Generation with MLIR-AIR"
+    people:
+        - erwei
+        - emily
+        - yiannis
+        - aaron
+        - mike
+        - joe
+        - steve
+        - sam
+    venue: "C4ML"
+    with: "CGO"
+    type: workshop
+    year: 2026
+    url: "https://c4ml.org/"
+
+-
     title: "Code Generation and Optimization of Graph Programs on a Manycore Architecture"
     authors: "Emily Furst"
     venue: "University of Washington Dissertations & Theses"

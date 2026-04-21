@@ -76,3 +76,21 @@ benjamin:
 
 armand:
         display_name: "Armand Bahram Behroozi"
+
+erwei:
+        display_name: "Erwei Wang"
+
+yiannis:
+        display_name: "Yiannis Papadopoulos"
+
+aaron:
+        display_name: "Aaron Knoll"  
+
+joe:   
+        display_name: "Joseph Melber" 
+
+steve:
+        display_name: "Stephen Neuendorffer"
+
+sam:
+        display_name: "Samuel Bayliss"

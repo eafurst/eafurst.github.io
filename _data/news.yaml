@@ -1,0 +1,10 @@
+- 
+  date: "February 2026"
+  text: "We open sourced our project Triton-XDNA. Check it out on <a href='https://github.com/amd/Triton-XDNA'>GitHub</a>!"
+
+-
+  date: "January 2026"
+  text: "We're presenting our work \"From Triton to AMD NPU: Compiler-Driven Kernel Generation with MLIR-AIR\" at C4ML next month!"
+-
+  date: "July 2025"
+  text: "I was promoted to Senior Member of Technical Staff!"

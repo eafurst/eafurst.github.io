@@ -28,6 +28,8 @@ More information: [curriculum vitae] [cv], [email] [email]
 [cv]: {{site.baseurl}}/web-cv.html
 [email]: mailto:emily.furst@amd.com
 
+{% include news.html %}
+
 {% include pubs.html %}
 
 {% include patents.html %}
